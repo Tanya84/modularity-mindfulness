@@ -10,8 +10,14 @@ a {
   color: #b64c6e;
 }
 
-hr {
-  border-color: #e2e2e2;
+.border {
+  border-top: 2px solid #e2e2e2;
+  border-bottom: 2px solid #e2e2e2;
+
+}
+
+.borderf {
+  border-top: 2px solid #e2e2e2;
 
 }
 
@@ -25,7 +31,7 @@ li a {
   border-bottom: 2px solid #b64c6e;
 }
 
-.btn-ghost{
+.btn-ghost {
   border-color: #b64c6e;
   background-color: #d89fb0;
 }
@@ -59,7 +65,7 @@ footer {
     float: left;
   }
 
-ul {
+  ul {
     float: right;
   }
 
